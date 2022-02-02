@@ -18,6 +18,6 @@ public class CardDealer
         nineClubs.setSuit("Diamonds");
         
         Card aceClubs=new Card("Clbs", 1);
-        aceClubs.setSuit("Clubs");
+        aceClubs.setSuit("Clubs");       
     }
 }
